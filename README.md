@@ -6,4 +6,4 @@ npx tsc
 
 http-server
 
-navigate to localhost:8080
+navigate to http://localhost:8080/src/index.html
